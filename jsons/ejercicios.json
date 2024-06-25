@@ -1,0 +1,59 @@
+[
+    {
+        "Clasificacion" : "Pecho",
+        "Ejercicios" :[
+            "Press de banca c/ barra",
+            "Press de banca c/ mancuerna",
+            "Press de inclinado c/ barra",
+            "Press de declinado c/ barra",
+            "Press de inclinado c/ mancuerna",
+            "Press de declinado c/ mancuerna",
+            "Press de pecho en maquina",
+            "Aperturas con mancuernas",
+            "Aperturas con poleas",
+            "Aperturas en maquina"
+        ]
+    },
+    { 
+        "Clasificacion" : "Espalda",
+        "Ejercicios" :[
+            "Remo sentado en polea",
+            "Remo sentado en maquina",
+            "Remo sentado en polea"
+        ]
+    },
+    {
+        "Clasificacion" : "Piernas",
+        "Ejercicios" :[
+            "Sentadillas",
+            "Sentadillas hack",
+            "Peso muerto",
+            "Curl femoral",
+            "Extensiones de rodilla en maquina"
+        ]
+    },
+    {
+        "Clasificacion" : "Hombros",
+        "Ejercicios" :[
+            "Press arnold",
+            "Elevaciones laterales",
+            "Elevaciones frontales",
+            "Posteriores con mancuernas"
+        ]
+    },
+    {
+        "Clasificacion" : "Triceps",
+        "Ejercicios" :[
+            "Fondos en paralelas",
+            "Press frances con mancuerna",
+            "Pata de burro"
+        ]},
+    {
+        "Clasificacion" : "Biceps",
+        "Ejercicios" :[
+            "Biceps alternados con mancuerna",
+            "Biceps predicador con mancuerna",
+            "Biceps parado con barra"
+        ]
+    }
+]
